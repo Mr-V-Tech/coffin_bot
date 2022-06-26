@@ -1,7 +1,7 @@
 {
   "name": "Mission 292",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Sithujaya01/Mission 292",
+  "repository": "https://github.com/Sithujaya01/coffin_bot",
   "logo": "https://telegra.ph/file/a1b526825224c9a861b65.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
